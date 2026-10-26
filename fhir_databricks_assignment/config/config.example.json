@@ -1,0 +1,9 @@
+{
+  "catalog": "workspace",
+  "schema": "default",
+  "raw_root": "/Volumes/workspace/default/lakehouse_files/raw",
+  "base_url": "https://hapi.fhir.org/baseR4",
+  "lookback_days": 3,
+  "page_size": 100,
+  "timeout_seconds": 60
+}
